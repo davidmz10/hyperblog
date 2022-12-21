@@ -8,13 +8,17 @@ Carrera 13 10 91
 3206179966
 8395993
 
+Experimento 1
 
+<<<<<<< HEAD
 
 
 
 
 
 Master 1
+=======
+Experimento 2
+>>>>>>> b5d2231 (exp 2+++)
 
-Master 2
 
